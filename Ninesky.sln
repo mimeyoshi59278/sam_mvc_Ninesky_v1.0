@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninesky.Website", "Ninesky.Website\Ninesky.Website.csproj", "{A6EF9608-2EC7-441D-939E-E77CE77B3D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninesky.Core", "Ninesky.Core\Ninesky.Core.csproj", "{2C2AE18E-6DE4-4AD9-9635-ECC75FB65F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninesky.User", "Ninesky.User\Ninesky.User.csproj", "{C5626089-452C-4509-820A-1EC5C5C91DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninesky.Data", "Ninesky.Data\Ninesky.Data.csproj", "{46BF1B1A-C0A1-4BC4-B38B-4C24037782C9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ninesky.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ninesky.Website\\Ninesky.Website.csproj
+		SccProjectName1 = Ninesky.Website
+		SccLocalPath1 = Ninesky.Website
+		SccProjectUniqueName2 = Ninesky.Core\\Ninesky.Core.csproj
+		SccProjectName2 = Ninesky.Core
+		SccLocalPath2 = Ninesky.Core
+		SccProjectUniqueName3 = Ninesky.User\\Ninesky.User.csproj
+		SccProjectName3 = Ninesky.User
+		SccLocalPath3 = Ninesky.User
+		SccProjectUniqueName4 = Ninesky.Data\\Ninesky.Data.csproj
+		SccProjectName4 = Ninesky.Data
+		SccLocalPath4 = Ninesky.Data
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6EF9608-2EC7-441D-939E-E77CE77B3D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EF9608-2EC7-441D-939E-E77CE77B3D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EF9608-2EC7-441D-939E-E77CE77B3D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EF9608-2EC7-441D-939E-E77CE77B3D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2AE18E-6DE4-4AD9-9635-ECC75FB65F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2AE18E-6DE4-4AD9-9635-ECC75FB65F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2AE18E-6DE4-4AD9-9635-ECC75FB65F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2AE18E-6DE4-4AD9-9635-ECC75FB65F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5626089-452C-4509-820A-1EC5C5C91DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5626089-452C-4509-820A-1EC5C5C91DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5626089-452C-4509-820A-1EC5C5C91DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5626089-452C-4509-820A-1EC5C5C91DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BF1B1A-C0A1-4BC4-B38B-4C24037782C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BF1B1A-C0A1-4BC4-B38B-4C24037782C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BF1B1A-C0A1-4BC4-B38B-4C24037782C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BF1B1A-C0A1-4BC4-B38B-4C24037782C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
